@@ -34,7 +34,7 @@ I am a mechatronics engineer. Throughout more than 2 years of experience, I have
 - A passionate Self-taught Machine/Deep learning developer using pytorch
 - I am currently learning in a Data Science Bootcamp with Protalento.
 - My web portfolio [link](https://my-portfolio-tau-dun.vercel.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://1drv.ms/b/s!AnIp_duBmoN1jPF-4-XASMOhqVcXEA?e=4jffIT)
+- I’m currently open for a new job opportunity, this is [my resume](https://1drv.ms/b/s!AnIp_duBmoN1jPF-4-XASMOhqVcXEA?e=4jffIT)
 
 <br><br>
 
