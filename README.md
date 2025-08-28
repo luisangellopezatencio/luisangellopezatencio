@@ -46,11 +46,13 @@ I am a mechatronics engineer. Throughout more than 2 years of experience, I have
 <p align="center">
 
 - **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+
+	![JavaScript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white)
+	![TypeScript](https://img.shields.io/badge/TypeScript%20-%2314354C.svg?style=for-the-badge&logo=typescript&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Matlab](https://img.shields.io/badge/Matlab%20-%2314354C.svg?style=for-the-badge&logo=matlab&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/Kotlin%20-%2314354C.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![Matlab](https://img.shields.io/badge/Matlab%20-%2314354C.svg?style=for-the-badge&logo=matlab&logoColor=white)
 
 <br>   
 
